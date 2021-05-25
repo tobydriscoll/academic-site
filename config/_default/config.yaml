@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Toby Driscoll # Website name
+baseurl: 'https://tobydriscoll.net/' # Website URL
+copyright: '&copy; {year} by Tobin A. Driscoll' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -28,6 +28,7 @@ module:
 ############################
 ## ADVANCED
 ############################
+googleAnalytics: UA-141510424-1
 
 enableGitInfo: false
 summaryLength: 30
@@ -37,6 +38,8 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
+  post: '/blog/:slug'
+  authors: '/author/:slug/'
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
@@ -57,7 +60,7 @@ markup:
     endLevel: 3
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 85
   anchor: smart
 timeout: 600000
 taxonomies:

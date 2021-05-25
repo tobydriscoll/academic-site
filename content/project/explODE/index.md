@@ -1,0 +1,65 @@
+---
+title: Exploring ODEs
+tags: [book,matlab,teaching]
+layout: project
+authors: [driscoll]
+date: 2019-06-06
+summary: "A different kind of introduction to ODEs."
+featured: false
+profile: false
+weight: 23
+image:
+  # Caption (optional)
+  # caption: "Conformal map to Delaware"
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: "Top"
+  preview_only: true
+
+---
+* Buy from the [SIAM bookstore](http://bookstore.siam.org/ot157/). Members of SIAM, including [student members](http://siam.org/students/memberships.php), get a 30% discount. 
+* [Download PDF](https://people.maths.ox.ac.uk/trefethen/ExplODE/) for free.
+
+{{< figure src="featured.jpg" width="160" alt="Exploring ODEs cover" >}}
+
+Written by [Nick Trefethen](https://people.maths.ox.ac.uk/trefethen/),
+[Asgeir Birkisson](https://www.linkedin.com/in/birkisson/?ppe=1), and
+myself, *Exploring ODEs* takes a look at ordinary differential equations
+unlike any other text. Rather than focusing on the mechanics of finding
+solutions in a limited number of special problems, we use
+[Chebfun](www.chebfun.org) to illustrate the wide range of behavior of
+those solutions for a variety of linear, nonlinear, and multidimensional
+problems, including initial-value, boundary-value, and eigenvalue
+problems. Each short chapter includes a detailed application and a
+favorite reference. The text is accessible as an accompaniment or
+follow-up to a standard first undergraduate text on ODEs. All of the
+MATLAB codes generating the examples and figures are available for
+download, as is the full text in PDF, from [the book's
+website](https://people.maths.ox.ac.uk/trefethen/ExplODE/). 
+
+### Contents
+
+1. Introduction
+2. First-order scalar linear ODEs
+3. First-order scalar nonlinear ODEs
+4. Second-order equations and damped oscillations 
+5. Boundary-value problems
+6. Eigenvalues of linear BVPs
+7. Variable coefficients and adjoints
+8. Resonance
+9. Second-order equations in the phase plane
+10. Systems of equations
+11. The fundamental existence theorem
+12. Random functions and random ODEs
+13. Chaos
+14. Linear systems and linearization
+15. Stable and unstable fixed points
+16. Multiple solutions of nonlinear BVPs
+17. Bifurcation
+18. Continuation and path-following
+19. Periodic ODEs
+20. Boundary and interior layers
+21. Into the complex plane
+22. Time-dependent PDEs
+23. Appendix A: Chebfun and its ODE algorithms
+24. Appendix B: 100 more examples

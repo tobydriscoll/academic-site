@@ -1,0 +1,11 @@
+# Font style metadata
+name = "myfonts"
+
+# Optional Google font URL
+google_fonts = "family=Inconsolata&family=Lato&family=Lora"
+
+# Font families
+heading_font = "Lato"
+body_font = "Lora"
+nav_font = "Lato"
+mono_font = "Inconsolata"

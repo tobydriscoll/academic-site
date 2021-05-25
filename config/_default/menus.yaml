@@ -8,20 +8,26 @@ main:
     url: '#about'
     weight: 10
   - name: Posts
-    url: '#posts'
+    url: '/post'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
   - name: Publications
-    url: '#featured'
+    url: '/publication'
     weight: 50
+  - name: Software
+    url: '/tag/software'
+    weight: 60
+  - name: Books
+    url: '/tag/book'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
