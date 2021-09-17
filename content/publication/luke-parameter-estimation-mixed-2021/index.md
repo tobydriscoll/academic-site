@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Parameter estimation for mixed-mechanism tear film thinning}}"
+title: "Parameter estimation for mixed-mechanism tear film thinning"
 authors: ["Rayanne A Luke","Richard J Braun","Tobin A Driscoll","Deborah Awisi-Gyau","Carolyn G. Begley"]
 date: 2021-05-01T16:42:58-04:00
 doi: ""

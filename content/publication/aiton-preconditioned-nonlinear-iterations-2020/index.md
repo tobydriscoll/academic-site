@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Preconditioned Nonlinear Iterations for Overlapping Chebyshev Discretizations with Independent Grids"
+title: "Preconditioned nonlinear iterations for overlapping Chebyshev discretizations with independent grids"
 authors: ["Kevin W Aiton", "Tobin A Driscoll"]
 date: 2020-01-01T16:17:12-04:00
 doi: "10.1137/19M1242483"
