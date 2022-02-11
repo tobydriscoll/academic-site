@@ -4,7 +4,7 @@
 title: "Parameter estimation for mixed-mechanism tear film thinning"
 authors: ["Rayanne A Luke","Richard J Braun","Tobin A Driscoll","Deborah Awisi-Gyau","Carolyn G. Begley"]
 date: 2021-05-01T16:42:58-04:00
-doi: ""
+doi: "10/gmq9gp"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-09-09T16:42:58-04:00
