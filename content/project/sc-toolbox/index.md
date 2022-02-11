@@ -27,4 +27,4 @@ There is an old [user guide](guide.pdf) that remains fairly relevant. There are 
 
 If you need a copy for an older version of MATLAB (major versions 4,5,6), please [contact me](/#contact). 
 
-{{< gallery album="gallery" >}}
+{{< gallery album="sc-toolbox" >}}

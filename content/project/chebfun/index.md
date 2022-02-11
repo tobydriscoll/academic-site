@@ -38,4 +38,4 @@ slides: ""
 
 ### Gallery 
 
- {{< gallery album="gallery" >}}
+ {{< gallery album="chebfun" >}}

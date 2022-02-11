@@ -130,4 +130,4 @@ There are also [Julia versions](https://github.com/tobydriscoll/fnc-extras/tree/
 
 ### Gallery 
 
- {{< gallery album="gallery" >}}
+ {{< gallery album="fnc" >}}

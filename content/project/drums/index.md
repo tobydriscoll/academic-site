@@ -55,6 +55,7 @@ runs for three periods of the first mode.
 
 The story of these and other isospectral shapes continued to develop from there, mathematically and computationally, but I was not much involved with most of it. 
 
+
 ### Gallery 
 
- {{< gallery album="gallery" >}}
+ {{< gallery album="drums" >}}
