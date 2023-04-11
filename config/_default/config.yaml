@@ -30,7 +30,7 @@ module:
 ############################
 ## ADVANCED
 ############################
-googleAnalytics: UA-141510424-1
+# googleAnalytics: UA-141510424-1
 
 enableGitInfo: false
 summaryLength: 30
