@@ -46,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/tobydriscoll
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/tobydriscoll
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=V2c1tmAAAAAJ&hl=en
@@ -76,6 +76,6 @@ email: ""
 highlight_name: false
 ---
 
-Toby Driscoll is a professor in the Department of Mathematical Sciences at the University of Delaware. His research interests are in scientific computation, mathematical software, and applications of mathematics in the life sciences. He is the head of the [Center for Applications of Mathematics in Medicine](https://www.mathandmedicine.org) at UD. 
+Toby Driscoll is a Unidel Chaired Professor in the Department of Mathematical Sciences at the University of Delaware. His research interests are in scientific computation, mathematical software, and applications of mathematics in the life sciences. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
