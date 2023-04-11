@@ -1,5 +1,10 @@
-module github.com/wowchemy/starter-academic
+module my-website
 
 go 1.15
 
-require github.com/wowchemy/wowchemy-hugo-modules/v5 v5.4.0
+require (
+  github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms main
+  github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify main
+    github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal main
+  github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 main
+)
