@@ -16,8 +16,8 @@ publishDate: 2021-09-09T16:29:39-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Bulletin of Mathematical Biology"
-publication_short: "Bull Math Bio"
+publication: "*Bulletin of Mathematical Biology*"
+publication_short: "*Bull Math Bio*"
 
 abstract: "Many parameters affect tear film thickness and fluorescent intensity distributions over time; exact values or ranges for some are not well known. We conduct parameter estimation by fitting to fluorescent intensity data recorded from normal subjects’ tear films. The fitting is done with thin film fluid dynamics models that are nonlinear partial differential equation models for the thickness, osmolarity and fluorescein concentration of the tear film for circular (spot) or linear (streak) tear film breakup. The corresponding fluorescent intensity is computed from the tear film thickness and fluorescein concentration. The least squares error between computed and experimental fluorescent intensity determines the parameters. The results vary across subjects and trials. The optimal values for variables that cannot be measured in vivo within tear film breakup often fall within accepted experimental ranges for related tear film dynamics; however, some instances suggest that a wider range of parameter values may be acceptable.
 "

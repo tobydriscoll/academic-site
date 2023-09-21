@@ -6,6 +6,6 @@ authors: ["Kara L Maki", "William D Henshaw", "Alex McManus", "Richard J Braun",
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "Journal for Modeling in Ophthalmology"
+publication: "*Journal for Modeling in Ophthalmology*"
 doi: "10.35119/maio.v2i3.91"
 ---

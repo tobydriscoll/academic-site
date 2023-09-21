@@ -16,8 +16,8 @@ publishDate: 2021-09-09T15:53:57-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Mathematical Biosciences and Engineering"
-publication_short: "Math Biosci Eng"
+publication: "*Mathematical Biosciences and Engineering*"
+publication_short: "*Math Biosci Eng*"
 
 abstract: "The human tear film is rapidly established after each blink, and is essential for clear vision and eye health. This paper reviews mathematical models and theories for the human tear film on the ocular surface, with an emphasis on localized flows where the tear film may fail. The models attempt to identify the important physical processes, and their parameters, governing the tear film in health and disease."
 

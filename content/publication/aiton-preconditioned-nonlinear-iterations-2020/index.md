@@ -16,8 +16,8 @@ publishDate: 2021-09-09T16:17:12-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SIAM Journal on Scientific Computing"
-publication_short: "SIAM J Sci Comput"
+publication: "*SIAM Journal on Scientific Computing*"
+publication_short: "*SIAM J Sci Comput*"
 
 abstract: "The additive Schwarz method is usually presented as a preconditioner for a PDE linearization based on overlapping subsets of nodes from a global discretization. It has previously been shown how to apply Schwarz preconditioning to a nonlinear problem. By first replacing the original global PDE with the Schwarz overlapping problem, the global discretization becomes a simple union of subdomain discretizations, and unknowns do not need to be shared. In this way, restrictive-type updates can be avoided, and subdomains need to communicate only via interface interpolations. The resulting preconditioner can be applied linearly or nonlinearly. In the latter case, nonlinear subdomain problems are solved independently in parallel, and the frequency and amount of interprocess communication can be greatly reduced compared to global preconditioning of the sequence of linearized problems.
 

@@ -16,8 +16,8 @@ publishDate: 2021-09-09T16:42:58-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Bulletin of Mathematical Biology"
-publication_short: "Bull Math Bio"
+publication: "*Bulletin of Mathematical Biology*"
+publication_short: "*Bull Math Bio*"
 
 abstract: "Etiologies of tear breakup include evaporation-driven, divergent flow-driven, and a combination of these two. A mathematical model incorporating evaporation and lipid-driven tangential flow is fit to fluorescence imaging data. The lipid-driven motion is hypothesized to be caused by localized excess lipid, or “globs.” Tear breakup quantities such as evaporation rates and tangential flow rates cannot currently be directly measured during breakup. We determine such variables by fitting mathematical models for tear breakup and the computed fluorescent intensity to experimental intensity data gathered in vivo. Parameter estimation is conducted via least squares minimization of the difference between experimental data and computed answers using either the trust-region-reflective or Levenberg–Marquardt algorithm. Best-fit determination of tear breakup parameters supports the notion that evaporation and divergent tangential flow can cooperate to drive breakup. The resulting tear breakup is typically faster than purely evaporative cases. Many instances of tear breakup may have similar causes, which suggests that interpretation of experimental results may benefit from considering multiple mechanisms."
 
